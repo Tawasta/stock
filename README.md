@@ -1,3 +1,5 @@
+# MIGRATED TO https://gitlab.com/tawasta/odoo/stock !
+
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Build Status](https://travis-ci.org/Tawasta/stock.svg?branch=12.0)](https://travis-ci.org/Tawasta/stock)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef98de2538274a1dab0d14a049986591)](https://www.codacy.com/app/Tawasta/stock?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tawasta/stock&amp;utm_campaign=Badge_Grade)
